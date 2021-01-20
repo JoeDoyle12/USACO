@@ -27,3 +27,7 @@ void setIO(string name = "") {
         freopen((name+".out").c_str(), "w", stdout);
     }
 }
+int main() {
+    setIO("");
+    
+}
