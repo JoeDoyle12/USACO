@@ -13,8 +13,9 @@ using namespace std;
 #define vec vector<int>
 #define put push_back
 #define ll long long
-#define len(x) x.size()
+#define len(x) (int)x.size()
 #define s(x) sort(x.begin(), x.end())
 #define all(x) x.begin(),x.end()
 #define lb(a, b, c) lower_bound(a, b, c)
 #define ub(a, b, c) upper_bound(x, b, c)
+#define pi pair<int, int>
