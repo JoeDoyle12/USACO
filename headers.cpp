@@ -3,6 +3,7 @@
 //  Then just keep doing that every day.
 #include <bits/stdc++.h>
 using namespace std;
+using ll = long long;
 #define f first
 #define s second
 #define FOR(i,n) for(int i=0;i<(int)(n);i++)
